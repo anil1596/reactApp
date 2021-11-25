@@ -1,1 +1,1 @@
-Burger builder -  React App 
+Burger builder (React App)  
